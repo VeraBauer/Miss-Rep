@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0a59217d-ee53-4c2a-9e07-9a613745088f": {
+      "ProjectGuid": "0a59217d-ee53-4c2a-9e07-9a613745088f",
+      "DisplayName": "Server",
+      "ColorIndex": 0
+    },
+    "8b8cac21-a378-45c4-9635-df31c0a2d0df": {
+      "ProjectGuid": "8b8cac21-a378-45c4-9635-df31c0a2d0df",
+      "DisplayName": "SpaceShip.Server.Test",
+      "ColorIndex": 1
+    },
+    "d8e393ab-3c8c-434e-b1fb-552468fdf07a": {
+      "ProjectGuid": "d8e393ab-3c8c-434e-b1fb-552468fdf07a",
+      "DisplayName": "SpaceShip.Lib.Test",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

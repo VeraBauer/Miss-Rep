@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2fb97d70-36c1-4050-b358-72c48bd8605c": {
+      "ProjectGuid": "2fb97d70-36c1-4050-b358-72c48bd8605c",
+      "DisplayName": "IoC",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
